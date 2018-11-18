@@ -4,7 +4,7 @@
   <h4><a href="https://medium.com/@martinlasek/tutorial-how-to-write-crud-using-leaf-4d7dbae0979c">How to write CRUD using Leaf</a></h4>
   <br>
 
-  <img width="100%" src="my-first-crud-using-leaf.png" alt="screenshot">
+  <img width="100%" src="my-first-crud-using-leaflol.png" alt="screenshot">
 
 </p>
 
