@@ -1,5 +1,5 @@
 <p align="center">
-<h2>https://trycrypto.app👨🏼‍💻 </h2>
+<h2><a href="https://trycrypto.app">👨🏼‍💻https://trycrypto.app👨🏼‍💻</a> </h2>
   <h3> tryCrypto back-end written in Swift</h3>
   <h4><a href="https://trycrypto.app">Get real coins for fantasy trading</a></h4>
   <br>
